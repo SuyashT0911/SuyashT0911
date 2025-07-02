@@ -1,12 +1,13 @@
 name: Generate Datas
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate Snake and Deploy
     runs-on: ubuntu-latest
 
     steps:
@@ -19,8 +20,8 @@ jobs:
           github_user_name: SuyashT0911
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Check generated files
-        run: ls -R dist
+      - name: Check if snake was generated
+        run: ls -l dist
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
