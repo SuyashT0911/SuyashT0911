@@ -96,7 +96,6 @@ hobbies: ["Gaming", "Anime", "Drawing", "Music"]
 - 🌱 I’m currently perfecting Java
 - 👯 I’m looking to collaborate on I don't maybe projects
 - 🤔 I’m looking for help with career in AI and java developer 
-- 💬 Ask me about ...
 - 📫 How to reach me:
    - tiwarisuyash700@gmail.com
 - 😄 Pronouns: He/Him
