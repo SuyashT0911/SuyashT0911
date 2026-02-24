@@ -22,7 +22,7 @@
 </p>
 
 ---
-![My Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green&label=Visits)   
+![My Views](https://komarev.com/ghpvc/?username=SuyashT0911&style=flat-square&color=green&label=Visits)   
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
