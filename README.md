@@ -52,7 +52,7 @@ technical_background:
   ]
   
 currently_learning: ["Kubernetes, and React Native"]
-2025 Goals: ["learn at least 3-5 new Technologies, Land a job"]
+2026 Goals: ["learn at least 3-5 new Technologies, Land a job"]
 hobbies: ["Gaming", "Anime", "Drawing", "Music"]
 ```
   
